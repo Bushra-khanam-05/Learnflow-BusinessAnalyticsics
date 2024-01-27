@@ -2,6 +2,9 @@
 Create an interactive dashboard visualizing KPIs based on this retail dataset. Provide
 stakeholders with real-time insights for data-driven decision-making.
 
+# Dataset
+download from https://drive.google.com/drive/folders/1rjI4RhvAhFdohVCfcQQKUwtdO3tbd3rl?usp=sharing
+
 # Steps Involved:
 Understand Stakeholder Requirements:
 
