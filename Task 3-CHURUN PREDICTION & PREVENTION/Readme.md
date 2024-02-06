@@ -9,4 +9,5 @@ Churn Prediction Model: Developed a machine learning model to predict customer c
 * Data Analysis: Conducted in-depth analysis of customer behavior, identifying patterns and factors influencing churn.
 * Visualization: Utilized data visualization tools to communicate insights and facilitate better decision-making.
 
-# Dataset: to get the dataset follow the link "https://www.kaggle.com/code/tanmay111999/telco-churn-eda-cv-score-85-f1-score-80/input"
+# Dataset: to get the dataset follow the link 
+"https://www.kaggle.com/code/tanmay111999/telco-churn-eda-cv-score-85-f1-score-80/input"
